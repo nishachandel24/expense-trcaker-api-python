@@ -1,0 +1,19 @@
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Editor settings
+.vscode/
+
+# Logs
+*.log
